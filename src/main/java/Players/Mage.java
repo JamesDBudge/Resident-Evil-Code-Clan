@@ -1,7 +1,7 @@
 package Players;
 
 import Items.Spell;
-//import behaviours.IFight;
+import behaviours.IFight;
 
 public class Mage extends Player  {
 

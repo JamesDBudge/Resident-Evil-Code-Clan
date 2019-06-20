@@ -1,7 +1,7 @@
-//package behaviours;
-//
-//
-//public interface IFight {
-//
-//    int doDamage();
-//}
+package behaviours;
+
+
+public interface IFight {
+
+    int doDamage();
+}

@@ -12,6 +12,6 @@ public class Warrior extends Player {
 
 
 //    public int doDamage() {
-//        return this.doDamage();
+//        return this.weapon.getDamage();
 //    }
 }

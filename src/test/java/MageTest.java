@@ -31,5 +31,8 @@ public class MageTest {
         assertEquals(20, mage.getHitpoints());
     }
 
-
+    @Test
+    public void canDoDamage() {
+        assertEquals(10, mage.doDamage());
+    }
 }
